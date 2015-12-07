@@ -5,7 +5,3 @@ Jinja2==2.7.2
 oauth==1.0.1
 oauthlib==0.7.2
 requests>=2.2.1
-simplejson==3.8.0
-bokeh==0.8.1
-pandas==0.17.0
-dateutil>=2.4.2
